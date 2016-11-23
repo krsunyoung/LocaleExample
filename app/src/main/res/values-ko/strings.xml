@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">로케일 예제</string>
+    <string name="message">안녕 ~</string>
+    <!--string value값이 생김-->
+
+
+</resources>
